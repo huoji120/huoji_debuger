@@ -1,4 +1,4 @@
-#Ayy Debuger
+#Ayy Debuger Learn Only
 ![image](https://github.com/huoji120/huoji_debuger/blob/master/images/1.png)
 ![image](https://github.com/huoji120/huoji_debuger/blob/master/images/2.png)
 ![image](https://github.com/huoji120/huoji_debuger/blob/master/images/3.png)
