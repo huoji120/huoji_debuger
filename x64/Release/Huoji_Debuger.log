@@ -1,0 +1,13 @@
+﻿  Building 'Huoji_Debuger' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\Huoji_Debuger.inf
+  Stamping [Version] section with DriverVer=11/04/2019,0.35.34.717
+  Huoji_Debuger.vcxproj -> C:\Users\Administrator\Desktop\Huoji_Debuger\x64\Release\Huoji_Debuger.sys
+  .........................
+  Signability test failed.
+  
+  Errors:
+  22.9.7: DriverVer set to a date in the future (postdated DriverVer not allowed) in Huoji_Debuger\huoji_debuger.inf.
+  
+  Warnings:
+  None
+x64\Release\inf2catOutput.log : Inf2Cat error -2: "Inf2Cat, signability test failed." Double click to see the tool output.
