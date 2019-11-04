@@ -6,7 +6,8 @@
 *.lo
 *.o
 *.obj
-
+*.sys
+*.cer
 # Precompiled Headers
 *.gch
 *.pch

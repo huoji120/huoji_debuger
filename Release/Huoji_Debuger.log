@@ -1,2 +1,0 @@
-﻿  Building 'Huoji_Debuger' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
-H:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(425,5): error MSB8040: Spectre-mitigated libraries are required for this project. Install them from the Visual Studio installer (Individual components tab) for any toolsets and architectures being used. Learn more: https://aka.ms/Ofhn4c
